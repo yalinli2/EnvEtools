@@ -1,0 +1,8 @@
+# For course materials
+numpy
+matplotlib
+xgboost # machine learning
+
+# To enable slide show
+jupyter_contrib_nbextensions
+rise
