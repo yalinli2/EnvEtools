@@ -2,6 +2,16 @@
 EnvEtools: Course Materials for Environmental Engineering Analysis Tools
 ========================================================================
 
+.. Status
+.. image:: https://img.shields.io/badge/status-under%20development-blue?style=flat
+   :target: https://github.com/yalinli2/EnvEtools
+
+.. GitHub test of the main branch
+.. image: https://github.com/QSD-Group/QSDedu/actions/workflows/test-notebook.yml/badge.svg?branch=main
+   :target: https://github.com/QSD-Group/QSDedu/actions/workflows/test-notebook.yml
+
+.. image:: https://mybinder.org/badge_logo.svg
+   :target: https://mybinder.org/v2/gh/yalinli2/EnvEtools/HEAD
 
 WORK IN PROGRESS
 ----------------

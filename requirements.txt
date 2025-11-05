@@ -5,4 +5,5 @@ xgboost # machine learning
 
 # To enable slide show
 jupyter_contrib_nbextensions
+jupyterlab_rise
 rise
