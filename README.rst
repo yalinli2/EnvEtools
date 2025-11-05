@@ -10,9 +10,6 @@ EnvEtools: Course Materials for Environmental Engineering Analysis Tools
 .. image:: https://github.com/yalinli2/EnvEtools/actions/workflows/test-notebook.yml/badge.svg?branch=main
    :target: https://github.com/yalinli2/EnvEtools/actions/workflows/test-notebook.yml
 
-.. image:: https://mybinder.org/badge_logo.svg
-   :target: https://mybinder.org/v2/gh/yalinli2/EnvEtools/main
-
 
 Launching Notebooks in Google Colab
 -----------------------------------
