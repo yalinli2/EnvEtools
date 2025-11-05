@@ -7,24 +7,39 @@ EnvEtools: Course Materials for Environmental Engineering Analysis Tools
    :target: https://github.com/yalinli2/EnvEtools
 
 .. GitHub test of the main branch
-.. image: https://github.com/QSD-Group/QSDedu/actions/workflows/test-notebook.yml/badge.svg?branch=main
-   :target: https://github.com/QSD-Group/QSDedu/actions/workflows/test-notebook.yml
+.. image:: https://github.com/yalinli2/EnvEtools/actions/workflows/test-notebook.yml/badge.svg?branch=main
+   :target: https://github.com/yalinli2/EnvEtools/actions/workflows/test-notebook.yml
 
 .. image:: https://mybinder.org/badge_logo.svg
-   :target: https://mybinder.org/v2/gh/yalinli2/EnvEtools/HEAD
-
-WORK IN PROGRESS
-----------------
+   :target: https://mybinder.org/v2/gh/yalinli2/EnvEtools/main
 
 
-Google Colab
-------------
-TO BE ADDED
+Launching Notebooks in Google Colab
+-----------------------------------
+Navigate to the individual Jupyter Notebooks in `course_modules </course_modules>`_, then click the |_colab_badge| at the top of each notebook.
+
+.. |_colab_badge| image:: https://colab.research.google.com/assets/colab-badge.svg
 
 
-Binder
-------
-TO BE ADDED
+Launching Notebooks in Binder
+-----------------------------
+Method 1 (preferred)
+********************
+Directly click the |_binder_badge| **ABOVE** (under the main header) to launch binder in your browser. This is the **PREFERRED** method and should be able to build the Binder environment fairly quickly (within a minute). But if this method fails, try the alternative one below, which might take a few to tens of minutes and you might need to refresh the page if it appears to be stuck at the very last step (i.e., when the progress bar goes to the end but nothing happens).
+
+.. |_binder_badge| image:: https://mybinder.org/badge_logo.svg
+
+Method 2
+********
+If it takes a long time (or it times out), go to https://mybinder.org, enter the information as below:
+
+* GitHub: ``https://github.com/yalinli2/EnvEtools``
+* Git ref: ``main``
+
+and click the `launch` button.
+
+.. image:: images/launch_binder.png
+   :width: 60%
 
 
 About the Author

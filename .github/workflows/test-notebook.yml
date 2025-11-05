@@ -1,0 +1,21 @@
+name: test-notebook
+on: [push]
+
+jobs:
+
+  Test-Jupyter-Notebook:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v5
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v6
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        python -m pip install pytest nbmake
+        pip install --no-cache-dir -r requirements.txt
+    - name: Test with pytest
+      run: |
+        pytest --nbmake **/*ipynb
