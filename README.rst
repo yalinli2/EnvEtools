@@ -25,7 +25,9 @@ Launching Notebooks in Binder
 -----------------------------
 Method 1 (preferred)
 ********************
-Directly click the |_binder_badge| **ABOVE** (under the main header) to launch binder in your browser. This is the **PREFERRED** method and should be able to build the Binder environment fairly quickly (within a minute). But if this method fails, try the alternative one below, which might take a few to tens of minutes and you might need to refresh the page if it appears to be stuck at the very last step (i.e., when the progress bar goes to the end but nothing happens).
+Navigate to the individual Jupyter Notebooks in `course_modules </course_modules>`_, then click the |_binder_badge| at the top of each notebook.
+
+This is the **PREFERRED** method for Binder and should be able to build the Binder environment fairly quickly (within a minute). If this method fails, try the alternative one below, which might take a few to tens of minutes and you might need to refresh the page if it appears to be stuck at the very last step (i.e., when the progress bar goes to the end but nothing happens).
 
 .. |_binder_badge| image:: https://mybinder.org/badge_logo.svg
 
