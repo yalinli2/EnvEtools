@@ -1,5 +1,6 @@
 # For course materials
 numpy
+pandas
 matplotlib
 xgboost # machine learning
 
