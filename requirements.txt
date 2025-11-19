@@ -2,6 +2,7 @@
 numpy
 pandas
 matplotlib
+openpyxl
 
 # To enable slide show
 jupyter_contrib_nbextensions
