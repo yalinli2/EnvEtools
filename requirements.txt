@@ -3,6 +3,7 @@ numpy
 pandas
 matplotlib
 openpyxl
+geopandas
 
 # To enable slide show
 jupyter_contrib_nbextensions

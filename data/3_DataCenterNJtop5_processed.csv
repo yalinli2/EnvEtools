@@ -1,56 +1,56 @@
-,location,zipcode
-0,Hudson-County,07014
-1,Hudson-County,07014
-2,Hudson-County,07310
-3,Hudson-County,07072
-4,Hudson-County,07086
-5,Hudson-County,07047
-6,Hudson-County,07302
-7,Hudson-County,07302
-8,Hudson-County,07072
-9,Hudson-County,07302
-10,Hudson-County,07086
-11,Hudson-County,07086
-12,Hudson-County,07094
-13,Hudson-County,07310
-14,Hudson-County,07086
-15,Hudson-County,07302
-16,Piscataway,08854
-17,Piscataway,08854
-18,Piscataway,08854
-19,Piscataway,08873
-20,Piscataway,08854
-21,Piscataway,08854
-22,Piscataway,08854
-23,Piscataway,08854
-24,Piscataway,08854
-25,Piscataway,08854
-26,Piscataway,08854
-27,Piscataway,08854
-28,Piscataway,08854
-29,Piscataway,03434
-30,Secaucus,07094
-31,Secaucus,11209
-32,Secaucus,07094
-33,Secaucus,07094
-34,Secaucus,07094
-35,Secaucus,07094
-36,Secaucus,07094
-37,Secaucus,07094
-38,Secaucus,07094
-39,Secaucus,07094
-40,Secaucus,07094
-41,Newark,07072
-42,Newark,07102
-43,Newark,07102
-44,Newark,07102
-45,Newark,07430
-46,Newark,07416
-47,Newark,07033
-48,Newark,07102
-49,Newark,07102
-50,Newark,19711
-51,Morris-County,07054
-52,Morris-County,07927
-53,Morris-County,07054
-54,Morris-County,07927
+,Location,Company,Address,Zipcode,City,State,Country
+0,Hudson,Digital Realty,100 Delawanna Ave,07014,Clifton,New Jersey,USA
+1,Hudson,Digital Realty,2 Peekay Drive,07014,Clifton,New Jersey,USA
+2,Hudson,DataVerge,111 Town Square Place,07310,Jersey City,New Jersey,USA
+3,Hudson,365 Data Centers,410 Commerce Blvd,07072,Carlstadt,New Jersey,USA
+4,Hudson,365 Data Centers,300 Boulevard East,07086,Weehawken,New Jersey,USA
+5,Hudson,Equinix,5851 Westside Avenue,07047,North Bergen,New Jersey,USA
+6,Hudson,QTS Data Centers,95 Christopher Columbus Dr,07302,Jersey City,New Jersey,USA
+7,Hudson,Centersquare,210 Hudson Street,07302,Jersey City,New Jersey,USA
+8,Hudson,11:11 Systems,777 Central Blvd,07072,Carlstadt,New Jersey,USA
+9,Hudson,Unknown Company,1 Evertrust Plaza,07302,Jersey City,New Jersey,USA
+10,Hudson,Centersquare,300 JFK Blvd E,07086,Weehawken,New Jersey,USA
+11,Hudson,Centersquare,1919 Park Ave,07086,Weehawken,New Jersey,USA
+12,Hudson,Equinix,105 Enterprise Avenue South,7094,Secaucus,New Jersey,USA
+13,Hudson,Unknown Company,111 Town Square Place,07310,Jersey City,New Jersey,USA
+14,Hudson,Lumen,300 Boulevard East,07086,Weehawken,New Jersey,USA
+15,Hudson,Lumen,1 Evertrust Plaza,07302,Jersey City,New Jersey,USA
+16,Piscataway,Digital Realty,3 Corporate Place,08854,Piscataway,New Jersey,USA
+17,Piscataway,Digital Realty,365 South Randolphville Road,08854,Piscataway,New Jersey,USA
+18,Piscataway,Digital Realty,1115 Centennial Avenue,08854,Piscataway,New Jersey,USA
+19,Piscataway,CyrusOne Data Centers,800 Cottontail Ln.,08873,Somerset,New Jersey,USA
+20,Piscataway,Digital Fortress,201 B Centennial Ave.,08854,Piscataway,New Jersey,USA
+21,Piscataway,DataBank,25 Corporate Place South,8854,Piscataway,New Jersey,USA
+22,Piscataway,QTS Data Centers,101 Possumtown Rd,08854,Piscataway Township,New Jersey,USA
+23,Piscataway,Constant Hosting,101 Possumtown Rd,08854,Piscataway,New Jersey,USA
+24,Piscataway,ColoCrossing,101 Possumtown Rd.,08854,Piscataway,New Jersey,USA
+25,Piscataway,Centersquare,3 Corporate Pl,08854,Piscataway,New Jersey,USA
+26,Piscataway,Hammer Technology Holdings,15 Corporate Place South,08854,Piscataway,New Jersey,USA
+27,Piscataway,ReliableSite,101 Possumtown Rd,08854,Piscataway,New Jersey,USA
+28,Piscataway,24Shells Inc,101 Possumtown Rd,08854,Piscataway,New Jersey,USA
+29,Piscataway,Blue Hill Data Services,3434 Us-22,08876,Branchburg,New Jersey,USA
+30,Secaucus,Centersquare,15 Enterprise Ave North,07094,Secaucus,New Jersey,USA
+31,Secaucus,Equinix,755 Secaucus Road,11209,Secaucus,New Jersey,USA
+32,Secaucus,Equinix,800 Secaucus Rd,07094,Secaucus,New Jersey,USA
+33,Secaucus,CoreSite,2 Emerson Lane,07094,Secaucus,New Jersey,USA
+34,Secaucus,Equinix,275 Hartz Way,07094,Secaucus,New Jersey,USA
+35,Secaucus,H,200B Meadowlands Pkwy,07094,Secaucus,New Jersey,USA
+36,Secaucus,Colocation America,275 Hartz Way,07094,Secaucus,New Jersey,USA
+37,Secaucus,Evocative Data Centers,1 Enterprise Ave N,07094,Secaucus,New Jersey,USA
+38,Secaucus,"InterServer, Inc",200 Meadowlands Pkwy,07094,Secaucus,New Jersey,USA
+39,Secaucus,"InterServer, Inc",110 Meadowlands PKWY,07094,Secaucus,New Jersey,USA
+40,Secaucus,247rack.com2 Emerson Ln,247rack.com2 Emerson Ln,07094,Secaucus,New Jersey,USA
+41,Newark,Digital Realty,410 Commerce Blvd,07072,Carlstadt,New Jersey,USA
+42,Newark,DataBank,165 Halsey St,07102,Newark,New Jersey,USA
+43,Newark,Equinix,165 Halsey St,07102,Newark,New Jersey,USA
+44,Newark,165 Halsey Street,165 Halsey Street,07102,Newark,New Jersey,USA
+45,Newark,"Intercontinental Exchange, Inc. (ICE)1700 MacArthur Blvd","Intercontinental Exchange, Inc. (ICE)1700 MacArthur Blvd",07430,Mahwah,New Jersey,USA
+46,Newark,"Cogent Communications, Inc.","Cogent Communications, Inc.",254,State Highway 2307416 Franklin,New Jersey,USA
+47,Newark,CoreWeave,"2000 Galloping Hill Rd, 11 Nest Drive",07033,Kenilworth,New Jersey,USA
+48,Newark,Lumen,165 Halsey St,07102,Newark,New Jersey,USA
+49,Newark,CROWN CASTLE,165 Halsey St,07102,Newawk,New Jersey,USA
+50,Newark,Lumen,504 Interchange Blvd,19711,Newark,New Jersey,USA
+51,Morris,Cologix,200 Webro Road,07054,Parsippany,New Jersey,USA
+52,Morris,Cologix,9 Wing Drive,07927,Cedar Knolls,New Jersey,USA
+53,Morris,Cologix,Cologix,1719,Route 1007054 Parsippany,New Jersey,USA
+54,Morris,Cologix,16 Wing Drive,07927,Cedar Knolls,New Jersey,USA
