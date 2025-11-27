@@ -4,8 +4,7 @@ pandas
 matplotlib
 openpyxl
 geopandas
-torch
-torchvision
+scikit-learn
 
 # To enable slide show, not really needed
 # jupyter_contrib_nbextensions
