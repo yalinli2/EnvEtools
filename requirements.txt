@@ -5,6 +5,8 @@ matplotlib
 openpyxl
 geopandas
 scikit-learn
+catboost
+tensorflow
 
 # To enable slide show, not really needed
 # jupyter_contrib_nbextensions
