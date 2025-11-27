@@ -4,8 +4,10 @@ pandas
 matplotlib
 openpyxl
 geopandas
+torch
+torchvision
 
-# To enable slide show
-jupyter_contrib_nbextensions
-jupyterlab_rise
-rise
+# To enable slide show, not really needed
+# jupyter_contrib_nbextensions
+# jupyterlab_rise
+# rise
