@@ -23,6 +23,4 @@ jobs:
         pip install --no-cache-dir -r requirements.txt
     - name: Test with pytest
       run: |
-        pytest --nbmake **/*ipynb
-      paths-ignore:
-        - 'course_modules/2_USDA_MyMarketNews_MATLAB_exported.ipynb'
+        pytest --nbmake **/*ipynb --ignore course_modules/2_USDA_MyMarketNews_MATLAB_exported.ipynb
