@@ -43,7 +43,7 @@ and click the `launch` button.
 
 About the Author
 ----------------
-Development of QSDedu is led by `Yalin Li <https://yalinli.group/>`_. Please feel free to submit a GitHub issue for your questions and suggestions.
+Development of EnvEtools is led by `Yalin Li <https://yalinli.group/>`_. Please feel free to submit a GitHub issue for your questions and suggestions.
 
 
 License information
