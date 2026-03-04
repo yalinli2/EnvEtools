@@ -1,0 +1,10 @@
+,facility_name,address,city,state,zip,county,lat,long,status
+0,Comcast data center,92 W Main St,Clinton,NJ,08809,Hunterdon,40.63284,-74.9191,Proposed
+1,Data center: Joint Base McGuire-Dix-Lakehurst (2 sites),3021 McGuire Blvd,Fort Dix,NJ,08641,Burlington,40.01661,-74.608765,Proposed
+2,DataVerge,111 Town Square Place,Jersey City,NJ,07310,Hudson,40.726536,-74.03348,Operating
+3,Comcast data center,650 Centerton Rd,Moorestown,NJ,08057,Burlington,39.98939,-74.8896,Proposed
+4,GI Partners data center,492 River Rd,Nutley,NJ,07110,Essex,40.82151,-74.1342,Operating
+5,Prism Capital Partners data center,Cathedral Ave & Kingsland St,Nutley,NJ,07110,Essex,40.8294,-74.1536,Proposed
+6,Nebius data center,Lincoln and Sheridan Aves,Vineland,NJ,08361,Cumberland,39.43012,-75.0131,Proposed
+7,NJFX,1410 Wall Church Rd,Wall,NJ,07719,Monmouth,40.161446,-74.05334,Operating
+8,Proposed data center,~100 Jersey Ave,New Brunswick,NJ,08901,Middlesex,40.48662,-74.45843,Cancelled
